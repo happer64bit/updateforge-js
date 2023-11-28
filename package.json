@@ -1,6 +1,6 @@
 {
   "name": "updateforge-js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Schema Builder For UpdateForge",
   "main": "dist/index.js",
   "repository": "https://github.com/happer64bit/updateforge-js",
@@ -15,5 +15,11 @@
     "build": "tsc",
     "prepublishOnly": "npm run build"
   },
-  "keywords": ["schema", "typescript", "builder", "json", "updateforge"]
+  "keywords": [
+    "schema",
+    "typescript",
+    "builder",
+    "json",
+    "updateforge"
+  ]
 }
