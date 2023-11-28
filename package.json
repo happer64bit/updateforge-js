@@ -14,5 +14,6 @@
   "scripts": {
     "build": "tsc",
     "prepublishOnly": "npm run build"
-  }
+  },
+  "keywords": ["schema", "typescript", "builder", "json", "updateforge"]
 }
